@@ -19,12 +19,12 @@
 
 		<link href="/css/geral.css" rel="stylesheet">
 
-		<link href="/partners/bootstrap/bootstrap-theme.min.css" rel="stylesheet">
-		<link href="/partners/bootstrap/bootstrap.min.css" rel="stylesheet">
+		<link href="/partners/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+		<link href="/partners/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="/partners/jquery-ui/jquery-ui.css" rel="stylesheet"/>
 
-		<script src="/partners/bootstrap/bootstrap.min.js"></script>
 		<script src="/partners/jquery/jquery-2.2.0.js"></script>
+		<script src="/partners/bootstrap/js/bootstrap.min.js"></script>
 	    <script src="/partners/jquery-ui/jquery-ui.js"></script>
 
 		<link rel="shortcut icon" href="/ico/favicon.ico"/>
