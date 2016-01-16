@@ -1,9 +1,9 @@
 <cfinclude template="/includes/header.cfm"/>
 
 <cfscript>
-  controller = new services.basics.BasicsController();
+  // controller = new services.basics.BasicsController();
 
-  writeDump(controller.test());
+  // writeDump(controller.test());
 
 </cfscript>
 
